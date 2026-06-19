@@ -1,3 +1,4 @@
 print("Hello")
 print("hi")
+print("bye")
 로그인 기능 추가
