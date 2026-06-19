@@ -1,5 +1,9 @@
 print("Hello")
 print("hi")
 print("bye")
+<<<<<<< HEAD
 print("Hi")
+=======
+print("Bye")
+>>>>>>> b
 로그인 기능 추가
